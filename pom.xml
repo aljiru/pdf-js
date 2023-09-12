@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>pdf-js</artifactId>
-    <version>3.9.179</version>
+    <version>3.10.111-SNAPSHOT</version>
     <name>PDF.JS</name>
     <description>WebJar for PDF.JS</description>
     <url>http://webjars.org</url>
